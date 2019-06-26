@@ -128,3 +128,8 @@ ul
     font-size: 100%;
     font-weight: 100%;
   }
+  .container-fluid {  
+    display: grid;  
+    grid-template-columns: repeat(auto-fit, 100%);
+    
+}
